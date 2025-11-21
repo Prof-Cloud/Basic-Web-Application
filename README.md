@@ -5,3 +5,5 @@ This project is a basic web application that I created using Terraform on the AW
 The project includes a Security Group, which acts like a firewall. It only allows HTTP traffic (port 80) to reach the web server.
 
 Even though the application is simple, it demonstrates key concepts in cloud computing. It shows how to launch resources in AWS using Terraform, ensure they work correctly together, and how to secure them so the application stays safe. 
+
+<img width="212" height="169" alt="image" src="https://github.com/user-attachments/assets/2cceea68-2871-4e95-a5d8-fc53dfb9bd83" />
