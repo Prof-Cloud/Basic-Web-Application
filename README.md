@@ -1,5 +1,7 @@
 # Basic Web Application - Terraform on AWS
 
-This project is a basic web application that I built using Terraform on the AWS Cloud. It is meant to show that I understand how to create cloud resources using Infrastructure as Code. The setup includes an EC2 instance, which is a virtual server that runs a simple website. I also created a Security Group, which works like a firewall and controls what kind of traffic is allowed to reach the EC2 instance.
+This project is a basic web application that I created using Terraform on the AWS Cloud. It was built to demonstrate my understanding of using Infrastructure as Code (IaC) to provision cloud resources. The primary component of the project is an EC2 instance, a virtual server that hosts a simple website. I used user data on the EC2 instance, so it automatically installs a web server and builds a webpage as soon as it starts.
 
-Even though the application is simple, it shows the main ideas of how cloud projects work. It demonstrates how to launch resources, connect them, and keep them secure. This project helped me learn how to organize cloud infrastructure, write Terraform files, and understand how AWS services work together. The design is easy to follow, and the two security groups used in this setup could also be reused later as Terraform modules.
+The project includes a Security Group, which acts like a firewall. It only allows HTTP traffic (port 80) to reach the web server.
+
+Even though the application is simple, it shows the important ideas behind cloud computing. It demonstrates how to launch resources, connect them tof
