@@ -6,4 +6,5 @@ The project includes a Security Group, which acts like a firewall. It only allow
 
 Even though the application is simple, it demonstrates key concepts in cloud computing. It shows how to launch resources in AWS using Terraform, ensure they work correctly together, and how to secure them so the application stays safe. 
 
-<img width="640" height="680" alt="Blank diagram" src="https://github.com/user-attachments/assets/1ee07916-2b4d-423b-89be-096bb94803da" />
+
+<img width="640" height="680" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/30d5a776-c776-4dde-a4da-df64a3ea6d9e" />
